@@ -1,4 +1,8 @@
+"id": "/task-management-pwa/"
+
+
 {
+  "id": "/task-management-pwa/",
   "name": "TaskFlow - Task Management System",
   "short_name": "TaskFlow",
   "start_url": "./",
